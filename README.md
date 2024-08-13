@@ -13,6 +13,7 @@ Regarding the dataset, carseats is a simulated data set containing sales of chil
 - [Correlation](#correlation)
 - [EDA when target variable is categorical variable](#eda-when-target-variable-is-categorical-variable)
 - [EDA when target variable is numerical variable](#eda-when-target-variable-is-numerical-variable)
+- [References](#references)
 
 # Libraries
 
@@ -544,5 +545,15 @@ ggplot(Carseats) +
 ```
 ![advertising in US](https://github.com/user-attachments/assets/8ab714ec-740d-4616-99d0-81e34a0d23de)
 
+# References
 
+[Choonghyun Ryu (2024) Exploratory Data Analysis](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html)
+
+[explore library](https://www.rdocumentation.org/packages/explore/versions/1.3.0)
+
+[Tidyverse](https://www.tidyverse.org/)
+
+[ISLR](https://www.rdocumentation.org/packages/ISLR/versions/1.4)
+
+[dlookr from Choonghyun Ryu repository](https://github.com/choonghyunryu/dlookr)
 
